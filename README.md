@@ -1,5 +1,5 @@
 ## Welcome to Jiaxing GU's Pages
-From Zhejiang University,computer science  
+From Zhejiang University,computer science .With one year code editting experience, only can use a little python and c. 
 
 ### Markdown
 
