@@ -2,10 +2,10 @@
 From Zhejiang University,computer science .With one year code editting experience, only can use a little python and c. 
 
 #personal information
-  Name:Jiaxing Gu
-  Age:18
-  From: Hainan
-  Now study in Zhejiang university
+##Name:Jiaxing Gu
+##Age:18
+##From: Hainan
+##Now study in Zhejiang university
 
 ### Markdown
 <table border="0">
