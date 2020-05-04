@@ -2,8 +2,6 @@
 From Zhejiang University,computer science .With one year code editting experience, only can use a little python and c. 
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 <table border="0">
   <tr>
     <td width="75%">
@@ -13,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      暂无
     </td>
   </tr>
 </table>
@@ -40,4 +38,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinxinjiajia/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinxinjiajia/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration
